@@ -6,7 +6,7 @@ A cutting-edge, production-ready Next.js website featuring advanced 3D animation
 
 ### Advanced 3D Graphics
 - **React Three Fiber Integration**: Full 3D scene with interactive elements
-- **Rotating Logo**: CoreDAO-inspired 3D logo with gold metallic finish
+- **Rotating Logo**: inspired 3D logo with gold metallic finish
 - **Floating Particles**: Dynamic particle system with cursor interaction
 - **Blockchain Nodes**: Animated network visualization
 - **Floating Coins**: 3D cryptocurrency coins with realistic lighting
